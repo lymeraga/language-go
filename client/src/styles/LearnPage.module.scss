@@ -1,0 +1,221 @@
+
+
+
+.learn-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+  }
+  .linkButtons {
+    display: flex;
+    flex-direction:row;
+  }
+  .card-container {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .toggle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    bottom: 10%;
+  }
+  
+  .toggle-label {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .slider {
+    width: 50px;
+    height: 25px;
+    background: #ccc;
+    border-radius: 50px;
+    position: relative;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .slider-on {
+    background: #75b800; // Green for "On"
+  }
+  
+  .slider-off {
+    background: #ccc; // Gray for "Off"
+  }
+  
+  .slider-thumb {
+    width: 23px;
+    height: 23px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    transition: transform 0.3s ease;
+  }
+  
+  .slider-on .slider-thumb {
+    transform: translateX(25px); // Move to the right when "On"
+  }
+  
+  .slider-off .slider-thumb {
+    transform: translateX(0); // Stay on the left when "Off"
+  }
+  
+  .timer-container {
+    margin-top: 0px; /* Space between card and timer */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .timer-text {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333;
+  }
+
+    // Pause css
+  
+    .pause-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      backdrop-filter: blur(5px);
+    }
+    
+    .pause-modal {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
+      h2 {
+        margin-bottom: 1rem;
+        color: #333;
+      }
+    
+      p {
+        margin-bottom: 1.5rem;
+        color: #666;
+      }
+    }
+    
+    .pause-actions {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    
+      button {
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+    
+      .continue-btn {
+        background-color: #4CAF50;
+        color: white;
+    
+        &:hover {
+          background-color: #45a049;
+        }
+      }
+    
+      .return-btn {
+        background-color: #f44336;
+        color: white;
+    
+        &:hover {
+          background-color: #da190b;
+        }
+      }
+    }
+
+  // stats css
+
+  .completion-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .completion-modal {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .stats-container {
+    margin: 20px 0;
+  }
+  
+  .stat-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  }
+  
+  .stat-label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .stat-value {
+    color: #007bff;
+  }
+  
+  .completion-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .reset-btn, .return-btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .reset-btn {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .return-btn {
+    background-color: #6c757d;
+    color: white;
+  }

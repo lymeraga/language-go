@@ -1,0 +1,999 @@
+{
+    "sentences": [
+        {
+            "id": 1,
+            "sentence": "사과",
+            "translation": "Apple",
+            "level": "Beginner",
+            "word_translation": {
+                "사과": "apple"
+            }
+        },
+        {
+            "id": 2,
+            "sentence": "책",
+            "translation": "Book",
+            "level": "Beginner",
+            "word_translation": {
+                "책": "book"
+            }
+        },
+        {
+            "id": 3,
+            "sentence": "커피",
+            "translation": "Coffee",
+            "level": "Beginner",
+            "word_translation": {
+                "커피": "coffee"
+            }
+        },
+        {
+            "id": 4,
+            "sentence": "가방",
+            "translation": "Bag",
+            "level": "Beginner",
+            "word_translation": {
+                "가방": "bag"
+            }
+        },
+        {
+            "id": 5,
+            "sentence": "자동차",
+            "translation": "Car",
+            "level": "Beginner",
+            "word_translation": {
+                "자동차": "car"
+            }
+        },
+        {
+            "id": 6,
+            "sentence": "꽃",
+            "translation": "Flower",
+            "level": "Beginner",
+            "word_translation": {
+                "꽃": "flower"
+            }
+        },
+        {
+            "id": 7,
+            "sentence": "집",
+            "translation": "House",
+            "level": "Beginner",
+            "word_translation": {
+                "집": "house"
+            }
+        },
+        {
+            "id": 8,
+            "sentence": "친구",
+            "translation": "Friend",
+            "level": "Beginner",
+            "word_translation": {
+                "친구": "friend"
+            }
+        },
+        {
+            "id": 9,
+            "sentence": "가족",
+            "translation": "Family",
+            "level": "Beginner",
+            "word_translation": {
+                "가족": "family"
+            }
+        },
+        {
+            "id": 10,
+            "sentence": "물",
+            "translation": "Water",
+            "level": "Beginner",
+            "word_translation": {
+                "물": "water"
+            }
+        },
+        {
+            "id": 11,
+            "sentence": "불",
+            "translation": "Fire",
+            "level": "Beginner",
+            "word_translation": {
+                "불": "fire"
+            }
+        },
+        {
+            "id": 12,
+            "sentence": "고양이",
+            "translation": "Cat",
+            "level": "Beginner",
+            "word_translation": {
+                "고양이": "cat"
+            }
+        },
+        {
+            "id": 13,
+            "sentence": "개",
+            "translation": "Dog",
+            "level": "Beginner",
+            "word_translation": {
+                "개": "dog"
+            }
+        },
+        {
+            "id": 14,
+            "sentence": "학교",
+            "translation": "School",
+            "level": "Beginner",
+            "word_translation": {
+                "학교": "school"
+            }
+        },
+        {
+            "id": 15,
+            "sentence": "공원",
+            "translation": "Park",
+            "level": "Beginner",
+            "word_translation": {
+                "공원": "park"
+            }
+        },
+        {
+            "id": 16,
+            "sentence": "식당",
+            "translation": "Restaurant",
+            "level": "Beginner",
+            "word_translation": {
+                "식당": "restaurant"
+            }
+        },
+        {
+            "id": 17,
+            "sentence": "시계",
+            "translation": "Clock",
+            "level": "Beginner",
+            "word_translation": {
+                "시계": "clock"
+            }
+        },
+        {
+            "id": 18,
+            "sentence": "강아지",
+            "translation": "Puppy",
+            "level": "Beginner",
+            "word_translation": {
+                "강아지": "puppy"
+            }
+        },
+        {
+            "id": 19,
+            "sentence": "나무",
+            "translation": "Tree",
+            "level": "Beginner",
+            "word_translation": {
+                "나무": "tree"
+            }
+        },
+        {
+            "id": 20,
+            "sentence": "산",
+            "translation": "Mountain",
+            "level": "Beginner",
+            "word_translation": {
+                "산": "mountain"
+            }
+        },
+        {
+            "id": 21,
+            "sentence": "강",
+            "translation": "River",
+            "level": "Beginner",
+            "word_translation": {
+                "강": "river"
+            }
+        },
+        {
+            "id": 22,
+            "sentence": "바다",
+            "translation": "Sea",
+            "level": "Beginner",
+            "word_translation": {
+                "바다": "sea"
+            }
+        },
+        {
+            "id": 23,
+            "sentence": "햇빛",
+            "translation": "Sunlight",
+            "level": "Beginner",
+            "word_translation": {
+                "햇빛": "sunlight"
+            }
+        },
+        {
+            "id": 24,
+            "sentence": "구름",
+            "translation": "Cloud",
+            "level": "Beginner",
+            "word_translation": {
+                "구름": "cloud"
+            }
+        },
+        {
+            "id": 25,
+            "sentence": "비",
+            "translation": "Rain",
+            "level": "Beginner",
+            "word_translation": {
+                "비": "rain"
+            }
+        },
+        {
+            "id": 26,
+            "sentence": "눈",
+            "translation": "Snow",
+            "level": "Beginner",
+            "word_translation": {
+                "눈": "snow"
+            }
+        },
+        {
+            "id": 27,
+            "sentence": "사람",
+            "translation": "Person",
+            "level": "Beginner",
+            "word_translation": {
+                "사람": "person"
+            }
+        },
+        {
+            "id": 28,
+            "sentence": "아이",
+            "translation": "Child",
+            "level": "Beginner",
+            "word_translation": {
+                "아이": "child"
+            }
+        },
+        {
+            "id": 29,
+            "sentence": "학생",
+            "translation": "Student",
+            "level": "Beginner",
+            "word_translation": {
+                "학생": "student"
+            }
+        },
+        {
+            "id": 30,
+            "sentence": "선생님",
+            "translation": "Teacher",
+            "level": "Beginner",
+            "word_translation": {
+                "선생님": "teacher"
+            }
+        },
+        {
+            "id": 31,
+            "sentence": "음식",
+            "translation": "Food",
+            "level": "Beginner",
+            "word_translation": {
+                "음식": "food"
+            }
+        },
+        {
+            "id": 32,
+            "sentence": "물고기",
+            "translation": "Fish",
+            "level": "Beginner",
+            "word_translation": {
+                "물고기": "fish"
+            }
+        },
+        {
+            "id": 33,
+            "sentence": "새",
+            "translation": "Bird",
+            "level": "Beginner",
+            "word_translation": {
+                "새": "bird"
+            }
+        },
+        {
+            "id": 34,
+            "sentence": "컴퓨터",
+            "translation": "Computer",
+            "level": "Beginner",
+            "word_translation": {
+                "컴퓨터": "computer"
+            }
+        },
+        {
+            "id": 35,
+            "sentence": "전화기",
+            "translation": "Phone",
+            "level": "Beginner",
+            "word_translation": {
+                "전화기": "phone"
+            }
+        },
+        {
+            "id": 36,
+            "sentence": "의자",
+            "translation": "Chair",
+            "level": "Beginner",
+            "word_translation": {
+                "의자": "chair"
+            }
+        },
+        {
+            "id": 37,
+            "sentence": "책상",
+            "translation": "Desk",
+            "level": "Beginner",
+            "word_translation": {
+                "책상": "desk"
+            }
+        },
+        {
+            "id": 38,
+            "sentence": "가게",
+            "translation": "Shop",
+            "level": "Beginner",
+            "word_translation": {
+                "가게": "shop"
+            }
+        },
+        {
+            "id": 39,
+            "sentence": "영화관",
+            "translation": "Cinema",
+            "level": "Beginner",
+            "word_translation": {
+                "영화관": "cinema"
+            }
+        },
+        {
+            "id": 40,
+            "sentence": "병원",
+            "translation": "Hospital",
+            "level": "Beginner",
+            "word_translation": {
+                "병원": "hospital"
+            }
+        },
+        {
+            "id": 41,
+            "sentence": "도서관",
+            "translation": "Library",
+            "level": "Beginner",
+            "word_translation": {
+                "도서관": "library"
+            }
+        },
+        {
+            "id": 42,
+            "sentence": "시장",
+            "translation": "Market",
+            "level": "Beginner",
+            "word_translation": {
+                "시장": "market"
+            }
+        },
+        {
+            "id": 43,
+            "sentence": "도로",
+            "translation": "Road",
+            "level": "Beginner",
+            "word_translation": {
+                "도로": "road"
+            }
+        },
+        {
+            "id": 44,
+            "sentence": "버스",
+            "translation": "Bus",
+            "level": "Beginner",
+            "word_translation": {
+                "버스": "bus"
+            }
+        },
+        {
+            "id": 45,
+            "sentence": "기차",
+            "translation": "Train",
+            "level": "Beginner",
+            "word_translation": {
+                "기차": "train"
+            }
+        },
+        {
+            "id": 46,
+            "sentence": "비행기",
+            "translation": "Airplane",
+            "level": "Beginner",
+            "word_translation": {
+                "비행기": "airplane"
+            }
+        },
+        {
+            "id": 47,
+            "sentence": "배",
+            "translation": "Boat",
+            "level": "Beginner",
+            "word_translation": {
+                "배": "boat"
+            }
+        },
+        {
+            "id": 48,
+            "sentence": "노트북",
+            "translation": "Laptop",
+            "level": "Beginner",
+            "word_translation": {
+                "노트북": "laptop"
+            }
+        },
+        {
+            "id": 49,
+            "sentence": "음악",
+            "translation": "Music",
+            "level": "Beginner",
+            "word_translation": {
+                "음악": "music"
+            }
+        },
+        {
+            "id": 50,
+            "sentence": "그림",
+            "translation": "Painting",
+            "level": "Beginner",
+            "word_translation": {
+                "그림": "painting"
+            }
+        },
+        {
+            "id": 51,
+            "sentence": "사진",
+            "translation": "Photo",
+            "level": "Beginner",
+            "word_translation": {
+                "사진": "photo"
+            }
+        },
+        {
+            "id": 52,
+            "sentence": "신문",
+            "translation": "Newspaper",
+            "level": "Beginner",
+            "word_translation": {
+                "신문": "newspaper"
+            }
+        },
+        {
+            "id": 53,
+            "sentence": "잡지",
+            "translation": "Magazine",
+            "level": "Beginner",
+            "word_translation": {
+                "잡지": "magazine"
+            }
+        },
+        {
+            "id": 54,
+            "sentence": "전화",
+            "translation": "Call",
+            "level": "Beginner",
+            "word_translation": {
+                "전화": "call"
+            }
+        },
+        {
+            "id": 55,
+            "sentence": "배우",
+            "translation": "Actor",
+            "level": "Beginner",
+            "word_translation": {
+                "배우": "actor"
+            }
+        },
+        {
+            "id": 56,
+            "sentence": "노래",
+            "translation": "Song",
+            "level": "Beginner",
+            "word_translation": {
+                "노래": "song"
+            }
+        },
+        {
+            "id": 57,
+            "sentence": "영화",
+            "translation": "Movie",
+            "level": "Beginner",
+            "word_translation": {
+                "영화": "movie"
+            }
+        },
+        {
+            "id": 58,
+            "sentence": "색깔",
+            "translation": "Color",
+            "level": "Beginner",
+            "word_translation": {
+                "색깔": "color"
+            }
+        },
+        {
+            "id": 59,
+            "sentence": "지구",
+            "translation": "Earth",
+            "level": "Beginner",
+            "word_translation": {
+                "지구": "earth"
+            }
+        },
+        {
+            "id": 60,
+            "sentence": "태양",
+            "translation": "Sun",
+            "level": "Beginner",
+            "word_translation": {
+                "태양": "sun"
+            }
+        },
+        {
+            "id": 61,
+            "sentence": "달",
+            "translation": "Moon",
+            "level": "Beginner",
+            "word_translation": {
+                "달": "moon"
+            }
+        },
+        {
+            "id": 62,
+            "sentence": "별",
+            "translation": "Star",
+            "level": "Beginner",
+            "word_translation": {
+                "별": "star"
+            }
+        },
+        {
+            "id": 63,
+            "sentence": "하늘",
+            "translation": "Sky",
+            "level": "Beginner",
+            "word_translation": {
+                "하늘": "sky"
+            }
+        },
+        {
+            "id": 64,
+            "sentence": "바람",
+            "translation": "Wind",
+            "level": "Beginner",
+            "word_translation": {
+                "바람": "wind"
+            }
+        },
+        {
+            "id": 65,
+            "sentence": "소금",
+            "translation": "Salt",
+            "level": "Beginner",
+            "word_translation": {
+                "소금": "salt"
+            }
+        },
+        {
+            "id": 66,
+            "sentence": "설탕",
+            "translation": "Sugar",
+            "level": "Beginner",
+            "word_translation": {
+                "설탕": "sugar"
+            }
+        },
+        {
+            "id": 67,
+            "sentence": "빵",
+            "translation": "Bread",
+            "level": "Beginner",
+            "word_translation": {
+                "빵": "bread"
+            }
+        },
+        {
+            "id": 68,
+            "sentence": "오늘 날씨가 어때요?",
+            "translation": "How is the weather today?",
+            "level": "Intermediate",
+            "word_translation": {
+                "오늘": "today",
+                "날씨가": "weather (subject particle)",
+                "어때요?": "how is it?"
+            }
+        },
+        {
+            "id": 69,
+            "sentence": "지금 몇 시입니까?",
+            "translation": "What time is it now?",
+            "level": "Intermediate",
+            "word_translation": {
+                "지금": "now",
+                "몇": "what",
+                "시입니까?": "time is it?"
+            }
+        },
+        {
+            "id": 70,
+            "sentence": "나는 한국어를 배우고 있습니다.",
+            "translation": "I am learning Korean.",
+            "level": "Intermediate",
+            "word_translation": {
+                "나는": "I",
+                "한국어를": "Korean (object particle)",
+                "배우고": "learning",
+                "있습니다.": "am"
+            }
+        },
+        {
+            "id": 71,
+            "sentence": "주말에 무엇을 하세요?",
+            "translation": "What do you do on weekends?",
+            "level": "Intermediate",
+            "word_translation": {
+                "주말에": "weekend",
+                "무엇을": "what",
+                "하세요?": "do you do?"
+            }
+        },
+        {
+            "id": 72,
+            "sentence": "어디에 가고 싶으세요?",
+            "translation": "Where do you want to go?",
+            "level": "Intermediate",
+            "word_translation": {
+                "어디에": "where",
+                "가고": "go",
+                "싶으세요?": "do you want?"
+            }
+        },
+        {
+            "id": 73,
+            "sentence": "저는 매일 아침에 조깅을 합니다.",
+            "translation": "I jog every morning.",
+            "level": "Intermediate",
+            "word_translation": {
+                "저는": "I",
+                "매일": "every day",
+                "아침에": "in the morning",
+                "조깅을": "jogging",
+                "합니다.": "do"
+            }
+        },
+        {
+            "id": 74,
+            "sentence": "이 가방은 누구의 것입니까?",
+            "translation": "Whose bag is this?",
+            "level": "Intermediate",
+            "word_translation": {
+                "이": "this",
+                "가방은": "bag (topic particle)",
+                "누구의": "whose",
+                "것입니까?": "is it?"
+            }
+        },
+        {
+            "id": 75,
+            "sentence": "학교에서 친구들을 만났습니다.",
+            "translation": "I met my friends at school.",
+            "level": "Intermediate",
+            "word_translation": {
+                "학교에서": "at school",
+                "친구들을": "friends (object particle)",
+                "만났습니다.": "met"
+            }
+        },
+        {
+            "id": 76,
+            "sentence": "도서관에서 책을 읽고 싶어요.",
+            "translation": "I want to read a book in the library.",
+            "level": "Intermediate",
+            "word_translation": {
+                "도서관에서": "at the library",
+                "책을": "book (object particle)",
+                "읽고": "reading",
+                "싶어요.": "want to"
+            }
+        },
+        {
+            "id": 77,
+            "sentence": "비가 오면 우산을 가져오세요.",
+            "translation": "Bring an umbrella when it rains.",
+            "level": "Intermediate",
+            "word_translation": {
+                "비가": "rain (subject particle)",
+                "오면": "if it rains",
+                "우산을": "umbrella (object particle)",
+                "가져오세요.": "bring"
+            }
+        },
+        {
+            "id": 78,
+            "sentence": "어제는 정말 피곤했어요.",
+            "translation": "I was really tired yesterday.",
+            "level": "Intermediate",
+            "word_translation": {
+                "어제는": "yesterday (topic particle)",
+                "정말": "really",
+                "피곤했어요.": "was tired"
+            }
+        },
+        {
+            "id": 79,
+            "sentence": "이번 주말에 산에 갈 거예요.",
+            "translation": "I will go to the mountain this weekend.",
+            "level": "Intermediate",
+            "word_translation": {
+                "이번": "this",
+                "주말에": "weekend",
+                "산에": "to the mountain",
+                "갈": "will go",
+                "거예요.": "am going to"
+            }
+        },
+        {
+            "id": 80,
+            "sentence": "저는 영화를 보는 것을 좋아합니다.",
+            "translation": "I enjoy watching movies.",
+            "level": "Intermediate",
+            "word_translation": {
+                "저는": "I",
+                "영화를": "movie (object particle)",
+                "보는": "watching",
+                "것을": "thing (object particle)",
+                "좋아합니다.": "enjoy"
+            }
+        },
+        {
+            "id": 81,
+            "sentence": "책 읽는 것이 제 취미입니다.",
+            "translation": "Reading books is my hobby.",
+            "level": "Intermediate",
+            "word_translation": {
+                "책": "book",
+                "읽는": "reading",
+                "것이": "thing (subject particle)",
+                "제": "my",
+                "취미입니다.": "hobby"
+            }
+        },
+        {
+            "id": 82,
+            "sentence": "새로운 언어를 배우는 것이 재미있어요.",
+            "translation": "Learning a new language is fun.",
+            "level": "Intermediate",
+            "word_translation": {
+                "새로운": "new",
+                "언어를": "language (object particle)",
+                "배우는": "learning",
+                "것이": "thing (subject particle)",
+                "재미있어요.": "is fun"
+            }
+        },
+        {
+            "id": 83,
+            "sentence": "환경 보호는 우리의 중요한 책임입니다.",
+            "translation": "Environmental protection is our important responsibility.",
+            "level": "Advanced",
+            "word_translation": {
+                "환경": "environment",
+                "보호는": "protection (topic particle)",
+                "우리의": "our",
+                "중요한": "important",
+                "책임입니다.": "is a responsibility"
+            }
+        },
+        {
+            "id": 84,
+            "sentence": "이 영화는 인간의 감정을 섬세하게 표현합니다.",
+            "translation": "This movie delicately portrays human emotions.",
+            "level": "Advanced",
+            "word_translation": {
+                "이": "this",
+                "영화는": "movie (topic particle)",
+                "인간의": "human's",
+                "감정을": "emotions (object particle)",
+                "섬세하게": "delicately",
+                "표현합니다.": "portrays"
+            }
+        },
+        {
+            "id": 85,
+            "sentence": "사회적 불평등 문제를 해결해야 합니다.",
+            "translation": "We must address the issue of social inequality.",
+            "level": "Advanced",
+            "word_translation": {
+                "사회적": "social",
+                "불평등": "inequality",
+                "문제를": "issue (object particle)",
+                "해결해야": "must address",
+                "합니다.": "do"
+            }
+        },
+        {
+            "id": 86,
+            "sentence": "기술 발전은 우리의 삶에 많은 변화를 가져왔습니다.",
+            "translation": "Technological advancements have brought many changes to our lives.",
+            "level": "Advanced",
+            "word_translation": {
+                "기술": "technology",
+                "발전은": "advancement (topic particle)",
+                "우리의": "our",
+                "삶에": "to life",
+                "많은": "many",
+                "변화를": "changes (object particle)",
+                "가져왔습니다.": "have brought"
+            }
+        },
+        {
+            "id": 87,
+            "sentence": "다양한 문화를 이해하는 것은 중요한 가치입니다.",
+            "translation": "Understanding different cultures is an important value.",
+            "level": "Advanced",
+            "word_translation": {
+                "다양한": "varied",
+                "문화를": "culture (object particle)",
+                "이해하는": "understanding",
+                "것은": "thing (subject particle)",
+                "중요한": "important",
+                "가치입니다.": "is a value"
+            }
+        },
+        {
+            "id": 88,
+            "sentence": "지속 가능한 에너지가 미래를 위한 해결책입니다.",
+            "translation": "Sustainable energy is the solution for the future.",
+            "level": "Advanced",
+            "word_translation": {
+                "지속": "sustain",
+                "가능한": "possible",
+                "에너지가": "energy (subject particle)",
+                "미래를": "future (object particle)",
+                "위한": "for",
+                "해결책입니다.": "is a solution"
+            }
+        },
+        {
+            "id": 89,
+            "sentence": "이 소설은 복잡한 인간 관계를 탐구합니다.",
+            "translation": "This novel explores complex human relationships.",
+            "level": "Advanced",
+            "word_translation": {
+                "이": "this",
+                "소설은": "novel (topic particle)",
+                "복잡한": "complex",
+                "인간": "human",
+                "관계를": "relationships (object particle)",
+                "탐구합니다.": "explores"
+            }
+        },
+        {
+            "id": 90,
+            "sentence": "교육은 개인과 사회의 발전을 위해 필수적입니다.",
+            "translation": "Education is essential for the development of individuals and society.",
+            "level": "Advanced",
+            "word_translation": {
+                "교육은": "education (topic particle)",
+                "개인과": "individual and",
+                "사회의": "society's",
+                "발전을": "development (object particle)",
+                "위해": "for",
+                "필수적입니다.": "is essential"
+            }
+        },
+        {
+            "id": 91,
+            "sentence": "새로운 기술을 배우는 것은 평생의 학습 과정입니다.",
+            "translation": "Learning new technologies is a lifelong process.",
+            "level": "Advanced",
+            "word_translation": {
+                "새로운": "new",
+                "기술을": "technology (object particle)",
+                "배우는": "learning",
+                "것은": "thing (subject particle)",
+                "평생의": "lifelong",
+                "학습": "learning",
+                "과정입니다.": "is a process"
+            }
+        },
+        {
+            "id": 92,
+            "sentence": "예술은 우리의 삶을 풍요롭게 만듭니다.",
+            "translation": "Art enriches our lives.",
+            "level": "Advanced",
+            "word_translation": {
+                "예술은": "art (topic particle)",
+                "우리의": "our",
+                "삶을": "life (object particle)",
+                "풍요롭게": "enrichingly",
+                "만듭니다.": "makes"
+            }
+        },
+        {
+            "id": 93,
+            "sentence": "이 책은 철학에 관한 깊은 통찰을 제공합니다.",
+            "translation": "This book provides deep insights into philosophy.",
+            "level": "Advanced",
+            "word_translation": {
+                "이": "this",
+                "책은": "book (topic particle)",
+                "철학에": "philosophy (dative particle)",
+                "관한": "about",
+                "깊은": "deep",
+                "통찰을": "insight (object particle)",
+                "제공합니다.": "provides"
+            }
+        },        
+        {
+            "id": 94,
+            "sentence": "공정한 사회를 만들기 위해 모두가 노력해야 합니다.",
+            "translation": "Everyone must work to create a fair society.",
+            "level": "Advanced",
+            "word_translation": {
+                "공정한": "fair",
+                "사회를": "society (object particle)",
+                "만들기": "creating",
+                "위해": "for",
+                "모두가": "everyone (subject particle)",
+                "노력해야": "must work",
+                "합니다.": "do"
+            }
+        },
+        {
+            "id": 95,
+            "sentence": "역사는 우리의 미래를 이해하는 데 중요한 열쇠입니다.",
+            "translation": "History is an important key to understanding our future.",
+            "level": "Advanced",
+            "word_translation": {
+                "역사는": "history (topic particle)",
+                "우리의": "our",
+                "미래를": "future (object particle)",
+                "이해하는": "understanding",
+                "데": "in",
+                "중요한": "important",
+                "열쇠입니다.": "is a key"
+            }
+        },
+        {
+            "id": 96,
+            "sentence": "문학은 인간의 삶을 반영하는 거울입니다.",
+            "translation": "Literature is a mirror reflecting human life.",
+            "level": "Advanced",
+            "word_translation": {
+                "문학은": "literature (topic particle)",
+                "인간의": "human's",
+                "삶을": "life (object particle)",
+                "반영하는": "reflecting",
+                "거울입니다.": "is a mirror"
+            }
+        },
+        {
+            "id": 97,
+            "sentence": "경제적 불평등은 현대 사회의 중요한 문제 중 하나입니다.",
+            "translation": "Economic inequality is one of the important issues in modern society.",
+            "level": "Advanced",
+            "word_translation": {
+                "경제적": "economic",
+                "불평등은": "inequality (topic particle)",
+                "현대": "modern",
+                "사회의": "society's",
+                "중요한": "important",
+                "문제": "issue",
+                "중": "among",
+                "하나입니다.": "is one"
+            }
+        }
+    ]
+}        

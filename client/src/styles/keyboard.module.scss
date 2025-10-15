@@ -1,0 +1,71 @@
+.keyboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1000px;
+  margin: 18px auto;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.key {
+  padding: 15px;
+  font-size: 20px;
+  box-shadow: 0 2px 0;
+  background: rgba(160, 222, 68, 0.271);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(229, 229, 229);
+  cursor: pointer;
+  font-family: "Apple SD Gothic Neo";
+  text-align: center;
+  margin: 2px;
+  min-width: 70px;
+  border-radius: 10px;
+
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.key-active {
+  background: #dad9d9;
+  box-shadow: none;
+  transform: translateY(5px);
+}
+
+.special {
+  min-width: 83px;
+}
+
+.shift {
+  min-width: 151px;
+}
+
+.caps {
+  min-width: 90px;
+}
+
+.enter {
+  min-width: 115px;
+}
+.control {
+  min-width: 60px;
+}
+.cmd {
+  min-width: 60px;
+}
+
+.tab {
+  min-width: 85px;
+}
+
+.space {
+  min-width: 430px;
+}

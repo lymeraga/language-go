@@ -1,0 +1,75 @@
+$mint-primary: #89b19b;
+$mint-dark: #5a9b84;
+$light-green: #73a383;
+$gray: #35343b;
+$light-blue: rgb(237, 248, 252);
+$blue: #1a82c3;
+
+.header {
+    margin-left: 80px;
+    color: $light-green; /* Add consistent color usage */
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.leaderBoard-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100vw; 
+    height: 100vh;
+    padding: 20px;
+    background-image: url(../images/SageBackground.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.first {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    border-radius: 5px; 
+    padding: 10px;
+    background-color: $light-green;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.second {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    border-radius: 5px; 
+    padding: 10px;
+    background-color: silver;
+    color: $gray;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.third {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    border-radius: 5px; 
+    padding: 10px;
+    background-color: $light-green;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.entry {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    border-radius: 5px; 
+    padding: 10px;
+    background-color: $light-blue;
+    color: $gray;
+    border: 1px solid $mint-primary;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
